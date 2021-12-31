@@ -1,4 +1,4 @@
-# NFT Minting Bot
+# NFT Minting Script
 
 ## Tech
 Node.js  
